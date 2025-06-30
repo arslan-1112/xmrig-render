@@ -1,0 +1,18 @@
+{
+  "autosave": true,
+  "pools": [
+    {
+      "url": "pool.supportxmr.com:3333",
+      "user": "YOUR_MONERO_WALLET",
+      "pass": "render-1",
+      "keepalive": true
+    }
+  ],
+  "cpu": {
+    "enabled": true,
+    "huge-pages": true,
+    "hw-aes": null,
+    "priority": null,
+    "max-threads-hint": 1
+  }
+}
