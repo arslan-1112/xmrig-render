@@ -3,7 +3,7 @@
   "pools": [
     {
       "url": "pool.supportxmr.com:3333",
-      "user": "YOUR_MONERO_WALLET",
+      "user": "43QseZHBs1vi2eJbErT8Uy1npUHbPd1sHgfxnN5SsBa8SsA8mrvajFQaj7t8movAY4VeuMrE29koMiTgvBsJ9FtSGvTxM5o",
       "pass": "render-1",
       "keepalive": true
     }
